@@ -1,0 +1,53 @@
+body{
+	margin:0px;
+	color: brown;
+}
+
+.first{
+	height: auto;
+	width: 100%;
+	background-color: orange;
+}
+
+.header{
+	background: darkred;
+	color: white;
+	width: 100%;
+	height: 100px;
+}
+
+.menu{
+	background-color: darkgreen;
+	height: 100px;
+	width: 100%;
+	color: white;
+}
+
+.slider{
+	background-color: yellow;
+	height: 100px;
+	width: 100%;
+	color: black;
+}
+
+.news{
+	background-color: pink;
+	width: 100%;
+	height: 100px;
+}
+
+.news1{
+	height: 100px;
+	width: 100%;
+	float: left;
+}
+
+.news2{
+	float: left;
+}
+
+.news3{
+	height: 100px;
+	width: 100%;
+	background-color: darkblue;
+}
